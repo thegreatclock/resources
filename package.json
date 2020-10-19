@@ -1,0 +1,21 @@
+{
+  "displayName": "Resources",
+  "name": "com.greatclock.resources",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "Assets and instances caches.",
+  "type": "library",
+  "keywords": [
+    "assets",
+    "resources",
+    "instances"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thegreatclock/resources.git"
+  },
+  "author": {
+    "name": "greatclock",
+    "email": "thegreatclock@hotmail.com"
+  }
+}
